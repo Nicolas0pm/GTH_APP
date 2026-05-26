@@ -1,0 +1,14 @@
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+*.log
+flutter_run_verbose.txt
+flutter_run_verbose_2.txt
+.generated/
